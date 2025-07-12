@@ -1,0 +1,50 @@
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 2
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 2
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 2
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  include(../config/koneksi.php): Failed to open stream: No such file or directory in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 22
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  include(../config/koneksi.php): Failed to open stream: No such file or directory in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 22
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 22
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Warning:  Undefined variable $koneksi in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 23
+[25-Jun-2025 18:44:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:23
+Stack trace:
+#0 /home/informa1/go.kuliner.informatikaku.my.id/index.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 23
+[26-Jun-2025 11:46:49 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:46:49 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:10 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:11 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Warning:  Undefined variable $allData in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 11:47:13 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/informa1/go.kuliner.informatikaku.my.id/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 188
+[26-Jun-2025 12:16:42 Asia/Jakarta] PHP Warning:  include(koneksi_maps): Failed to open stream: No such file or directory in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 3
+[26-Jun-2025 12:16:42 Asia/Jakarta] PHP Warning:  include(koneksi_maps): Failed to open stream: No such file or directory in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 3
+[26-Jun-2025 12:16:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi_maps' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/informa1/go.kuliner.informatikaku.my.id/index.php on line 3
